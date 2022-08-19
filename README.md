@@ -7,3 +7,5 @@
   <li><a href="http://lattes.cnpq.br/4025685702530313" target="_blank">Dr. Antover Panazzolo Sarmento</a>;</li>
   <li><a href="http://lattes.cnpq.br/6366855147494701" target="_blank">Dra. Eliane Apaecida Justino</a>.</li>
 </ul>
+
+[Clique aqui para acessar nosso REA](https://elianejustino.github.io/ECC005/)
