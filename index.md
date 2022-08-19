@@ -1,4 +1,4 @@
-<h1>Seja bem vindo a disciplina de Metologia científica</h1>
+<h1>Seja bem vindo a disciplina de Metologia Científica (EC0005)</h1>
 
 You can use the [editor on GitHub](https://github.com/ElianeJustino/ECC005/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
