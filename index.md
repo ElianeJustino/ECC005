@@ -1,39 +1,11 @@
 <h1>Seja bem vindo a disciplina de Metologia Científica (EC0005)</h1>
 
-<p align="justify">Left align content</p>
-  
-You can use the [editor on GitHub](https://github.com/ElianeJustino/ECC005/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="justify">Metodologia científica é o estudo dos métodos ou dos instrumentos necessários para a elaboração de um trabalho científico. É o conjunto de técnicas e processos empregados para a pesquisa e a formulação de uma produção científica. A metodologia é o estudo dos métodos, especialmente dos métodos das ciências. A seguir os módulos da disciplina podem ser consultados:</p>
+ 
+<h2>Índice</h2>
+<ul>
+  <li>Tema 1</li>
+  <li>Construção de um projeto de pesquisa</li>
+  <li>Tema 3</li>
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElianeJustino/ECC005/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
